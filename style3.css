@@ -1,0 +1,67 @@
+* {
+	padding: 0;
+	margin-right: 50 px;
+	text-decoration: none;
+	list-style: none;
+	box-sizing: border-box;
+}
+
+body{
+	background-image: url(bg.jpg);
+	font-family: Montserrat;
+
+}
+
+#tj h2 {
+	text-align:center;
+	font-size: 25px;
+	line-height: 40px;
+	background-color:#FFFAFA;
+	font-family: Signika;
+}
+
+
+#menu ul li{
+	background-color: white;
+	display: inline-block;
+	line-height: 20px;
+	margin: 0 110px;
+	margin-top: 200;
+}
+
+#menu ul li a{
+	color: black;
+	font-size: 15px;
+	padding: 7px 13px;
+	border-radius: 3px;
+	text-transform: uppercase;
+	display: inline-flex;
+}
+
+a.menu, a:hover {
+	background:#96FC03;
+	transition: .5s;
+}
+
+.checkbtn {
+	font-size: 30px;
+	color: white;
+	float: right;
+	line-height: 80px;
+	margin-right: 40px;
+	cursor: pointer;
+	display: none;
+}
+
+#gambar {
+	margin-left: 50px;
+	margin height: 0px;
+	display: inline-block;
+	margin: 0 61px;
+}
+
+#check {
+	display: none;
+}
+
+@media (max-width: 952px){

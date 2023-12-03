@@ -1,0 +1,88 @@
+body {
+    background-color: #96FC03;
+}
+
+.kontaksaya {
+    width: 400px;
+    height:35px;
+    font-family: Bitter;
+    font-size: 30px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: black;
+}
+
+.isipertanyaan {
+    width: 684.4px;
+    height: 29px;
+    font-family: Lato;
+    font-size: 20px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #575159;
+    padding-top: 20px;
+}
+
+.ukuranbox {
+    width: 330.5px;
+    height: 29px;
+    border-radius: 5px;
+    border: solid 2px #b6b5b7;
+    background-color: #fffefe;
+}
+
+.pesan {
+    width: 391px;
+    height: 29px;
+    font-family: Lato;
+    font-size: 24px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #575159;
+    padding-top: 20px;
+}
+
+.kotakpesan {
+    width: 330px;
+    height: 50px;
+    margin-top: 20px;
+    border-radius: 5px;
+    border: solid 2px #b6b5b7;
+    background-color: #fffefe;
+}
+
+
+.penilaian {
+    width: 684.4px;
+    height: 29px;
+    font-family: Lato;
+    font-size: 20px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #575159;
+    padding-top: 20px;
+}
+
+::placeholder {
+    width: 300.7px;
+    height: 20px;
+    font-family: Lato;
+    font-size: 20px;
+    font-weight: normal;
+    font-stretch: normal;
+
+}
+
+@media (max-width: 552px){

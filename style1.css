@@ -1,0 +1,60 @@
+* {
+	padding: 0;
+	margin-right: 0 px;
+	text-decoration: none;
+	list-style: none;
+	border: 3px;
+	box-sizing: border-box;
+}
+
+body {
+	background-image: url(bgb.jpg); 
+}
+
+#judul ul{
+	width:250px ;
+	background-color:black ;
+	display: inline-flex;
+	line-height: 30px;
+	margin: 0 0px;
+
+}
+
+#judul ul li {
+	display: inline-block;
+	color:#96FC03;
+	font-size: 30px;
+	padding: 10px 13px;
+	border-radius: 3px;
+	text-transform: uppercase;
+	font-family: Lalezar;
+}
+
+#Deskripsi ul{
+	width: 2200px;
+	background-color:black;
+	display: inline-flex;
+	line-height: 50px;
+	margin: 0 0px;
+
+}
+
+#Deskripsi ul li {
+	display: inline-block;
+	color: white;
+	font-size: 25px;
+	padding: 7px 13px;
+	border-radius: 3px;
+	text-transform: uppercase;
+	font-family: Permanent Marker;
+}
+
+#runingtext{
+	background-color:whitesmoke;
+	font-family: sans-serif;
+}
+p{
+	font-size: 50px;
+	font-family:Bebas Neue;
+	color: whitesmoke;
+}
